@@ -238,7 +238,7 @@ def apply_dtwbi_after(x, start_index, end_index, size):
             x = spring_0
         elif (size == 2):
             x = summer_0
-        elif (size = 3:
+        elif (size == 3):
             x = autumn_0
         else:
             x = winter_0
@@ -262,7 +262,7 @@ def apply_dtwbi_before(x, start_index, end_index, size):
             x = spring_0
         elif (size == 2):
             x = summer_0
-        elif (size = 3:
+        elif (size == 3):
             x = autumn_0
         else:
             x = winter_0
