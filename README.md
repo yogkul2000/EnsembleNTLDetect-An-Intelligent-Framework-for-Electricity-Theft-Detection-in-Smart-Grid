@@ -1,7 +1,7 @@
 # EnsembleNTLDetect-An-Intelligent-Framework-for-Electricity-Theft-Detection-in-Smart-Grid
 
 ![](Complete_Block.png) 
-This repository contains the original implementation of the paper **[EnsembleNTLDetect: An Intelligent Framework for Electricity Theft Detection in Smart Grid](https://drive.google.com/file/d/11gttcNc8Va74b0u3TkosHt2aJO1_40Iy/view?usp=sharing)**, to be presented at ICDMW 2021.
+This repository contains the original implementation of the paper **[EnsembleNTLDetect: An Intelligent Framework for Electricity Theft Detection in Smart Grid](https://arxiv.org/abs/2110.04502)**, to be presented at ICDMW 2021.
 
 If you find this code useful for your research, please cite the paper:
 
