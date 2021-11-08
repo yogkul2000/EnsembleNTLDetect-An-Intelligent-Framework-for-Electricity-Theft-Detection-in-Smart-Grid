@@ -10,7 +10,7 @@ If you find this code useful for your research, please cite the paper:
   author={Y. {Kulkarni} and S. {Hussain} and K. {Ramamritham} and N. {Somu},
   booktitle={2021 IEEE International Conference on Data Mining Workshops (ICDMW)}, 
   title={EnsembleNTLDetect: An Intelligent Framework for Electricity Theft Detection in Smart Grid}, 
-  month = {},
+  month = {December 2021},
   year={2021},
   volume={},
   number={},
