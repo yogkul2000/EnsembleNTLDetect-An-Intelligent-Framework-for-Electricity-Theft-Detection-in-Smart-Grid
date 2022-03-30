@@ -12,8 +12,6 @@ If you find this code useful for your research, please cite the paper:
   title={EnsembleNTLDetect: An Intelligent Framework for Electricity Theft Detection in Smart Grid}, 
   month = {December 2021},
   year={2021},
-  volume={},
-  number={},
-  pages={},
-  doi={}}
+  pages={527-536},
+  doi={https://doi.org/10.1109/ICDMW53433.2021.00070}}
 ```
